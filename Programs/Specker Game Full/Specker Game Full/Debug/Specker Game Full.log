@@ -1,0 +1,7 @@
+﻿  Specker Game.cpp
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game full\specker game full\specker game.cpp(181): error C2259: 'Player': cannot instantiate abstract class
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game full\specker game full\specker game.cpp(181): note: due to following members:
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game full\specker game full\specker game.cpp(181): note: 'const std::string &Player::getType(void) const': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game full\specker game full\specker game.cpp(163): note: see declaration of 'Player::getType'
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game full\specker game full\specker game.cpp(181): note: 'Move Player::play(const State &)': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game full\specker game full\specker game.cpp(164): note: see declaration of 'Player::play'

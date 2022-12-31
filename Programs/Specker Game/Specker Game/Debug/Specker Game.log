@@ -1,0 +1,92 @@
+﻿  Main.cpp
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(100): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(134): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(167): error C2259: 'Player': cannot instantiate abstract class
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(167): note: due to following members:
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(167): note: 'const std::string &Player::getType(void) const': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(164): note: see declaration of 'Player::getType'
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(167): note: 'Move Player::play(const State &)': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(165): note: see declaration of 'Player::play'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(185): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(186): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(187): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(191): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(194): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\main.cpp(195): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Specker2.cpp
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(13): error C3646: 'play': unknown override specifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(13): error C2059: syntax error: 'const'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(13): error C2238: unexpected token(s) preceding ';'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(30): error C2259: 'Player': cannot instantiate abstract class
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(30): note: due to following members:
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(30): note: 'const std::string &Player::getType(void) const': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(12): note: see declaration of 'Player::getType'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(48): error C3646: 'play': unknown override specifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(48): error C2059: syntax error: '('
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(49): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(75): error C3646: 'play': unknown override specifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(75): error C2059: syntax error: '('
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(76): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(102): error C3646: 'play': unknown override specifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(102): error C2059: syntax error: '('
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(103): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(133): error C3646: 'play': unknown override specifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(133): error C2059: syntax error: '('
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker2.cpp(134): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  Specker1.cpp
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker1.cpp(72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker1.cpp(76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker1.cpp(97): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker1.cpp(131): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Specker3.cpp
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(10): error C2143: syntax error: missing ';' before '*'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(10): error C2238: unexpected token(s) preceding ';'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(18): error C2061: syntax error: identifier 'Player'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(26): error C2065: 'p': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(26): error C2061: syntax error: identifier 'Player'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(33): error C2065: 'p': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(33): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(50): error C2065: 'Player': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(50): error C2065: 'player': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(50): error C2761: 'void Game::addPlayer(void) throw(std::logic_error)': redeclaration of member is not allowed
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(50): error C2143: syntax error: missing ';' before 'throw'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(50): error C2059: syntax error: 'throw'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(51): error C2143: syntax error: missing ';' before '{'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(51): error C2447: '{': missing function header (old-style formal list?)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(67): error C2065: 'State': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(67): error C2146: syntax error: missing ';' before identifier 's'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(67): error C3861: 's': identifier not found
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(68): error C2065: 's': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(70): error C2065: 's': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(71): error C2065: 'p': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(71): error C2065: 's': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(72): error C2065: 's': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(72): error C2065: 'p': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(76): error C2065: 's': undeclared identifier
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\specker3.cpp(77): error C2065: 'p': undeclared identifier
+  test.cpp
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(100): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(134): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(182): error C2259: 'Player': cannot instantiate abstract class
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(182): note: due to following members:
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(182): note: 'const std::string &Player::getType(void) const': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(164): note: see declaration of 'Player::getType'
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(182): note: 'Move Player::play(const State &)': is abstract
+  c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(165): note: see declaration of 'Player::play'
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(304): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(305): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(306): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(325): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(335): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\theodore\desktop\school of electrical and computer engineering\2ο εξάμηνο\programs\specker game\specker game\test.cpp(344): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
